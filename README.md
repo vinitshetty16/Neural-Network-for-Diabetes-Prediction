@@ -1,5 +1,7 @@
 # Neural Network for Diabetes Prediction
 
+<img src="https://github.com/vinitshetty16/Neural-Network-for-Diabetes-Prediction/assets/63487624/30a7f070-42c4-4cd0-8607-3ee2089fa432" alt="Neural Network" style="width:1400px; height:400px;">
+
 ## Overview
 
 This repository contains code and resources for constructing a forward neural network for the task of image classification, specifically focused on diabetes prediction. The neural network model is trained on the diabetes prediction dataset using PyTorch and TensorFlow frameworks.
